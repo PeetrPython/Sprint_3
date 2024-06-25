@@ -12,3 +12,7 @@ def setup_driver():
     driver.get(main_page)
     yield driver
     driver.quit()
+
+
+#Переменные
+
