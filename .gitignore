@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+__pucache__/
+.venv/
+.DS_Store
+.idea/
+pyvenv.cfg
